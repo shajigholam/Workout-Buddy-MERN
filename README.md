@@ -1,6 +1,6 @@
 # WorkoutBuddy 🚵🏻‍♀️⛹🏼‍♀️🧗🏻🏌🏻 Web Application
 
-This is a full-stack application using MERN
+This is a full-stack web application using MERN.
 
 To Run the Project: 
 
