@@ -1,4 +1,4 @@
-# WorkoutBuddy 🚵🏻‍♀️⛹🏼‍♀️🧗🏻🏌🏻
+# WorkoutBuddy 🚵🏻‍♀️⛹🏼‍♀️🧗🏻🏌🏻 Full stack Web Application Using MERN
 
 To Run the Project: 
 
