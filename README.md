@@ -1,3 +1,5 @@
+#WorkoutBuddy🏋🏻‍♀️🚵🏻‍♀️⛹🏼‍♀️
+
 To Run the Project: 
 
 node server.js
