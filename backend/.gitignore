@@ -1,5 +1,5 @@
 # dependencies
-backend/node_modules
+node_modules
 /.pnp
 .pnp.js
 
@@ -11,7 +11,7 @@ backend/node_modules
 
 # misc
 .DS_Store
-backend/.env # ignore .env file in the backend folder.
+.env # ignore .env file in the backend folder.
 .env.local
 .env.development.local
 .env.test.local
