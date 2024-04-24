@@ -50,5 +50,5 @@ module.exports = { loginUser, signupUser }
  * when the user enter their credentials, header and payload with a secret string(only for the server) that is made up by the server will hashed together -> the result is a signature(process is called signing the token)
  * the signature will be added to the JWT as the 3rd part
  * so whenever we send a request to get accesss to a resource that needs authentication we send the JWT along with it and the server will
- * decode the header and payload then create a secret from these two and compare & match it with the signature in JWT to verify the authentication
+ * decode the header and payload then create a signature using secret and these two and compare & match it with the signature in JWT to verify the authentication
  */
